@@ -2,7 +2,7 @@
 FEWD Assignment 1
 # Hello,
 ## I am **_Sofia Faverman_** ,
-## FEWD2 Certificate program student at [San Diego Continuing Education](https://www.sdce.edu) college.
+## FEWD2 Certificate program student at [San Diego Continuing Education](http://www.sdce.edu) college.
 
 I have 20+ years experience working in IT field.  
 Recently I have decided to follow my passion designing modern website and mobile application.
