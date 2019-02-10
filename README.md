@@ -16,8 +16,8 @@ I live in San Diego since 1988, where I met my husband Mark and raised 3 childre
 
 I love music, dance, gymnastics and beautiful warm weather in San Diego.
 
-![San Diego image](https://pixabay.com/en/san-diego-california-aerial-view-79567).
+![San Diego image](https://cdn.pixabay.com/photo/2013/02/09/01/37/san-diego-79567_960_720.jpg).
 
 My recent website development projects are:
-* [Royal Ridge Equene] (https: www.thebackofmymind.net)
-* San Diego Silver Bay Kennel Club (SBKC)
+* [Royal Ridge Equene] (http://project1sbkc.s3-webs http ite-us-west-1.amazonaws.com/)
+* [San Diego Silver Bay Kennel Club] (http://project2rre.s3-website-us-west-1.amazonaws.com/)
